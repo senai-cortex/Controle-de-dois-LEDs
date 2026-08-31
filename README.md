@@ -11,4 +11,4 @@ Projeto desenvolvido em Arduino utilizando um botão para controlar dois LEDs em
 
 ## Simulação
 
-https://www.tinkercad.com/things/iWMeIDVAM0X/editel
+https://www.tinkercad.com/things/iWMeIDVAM0X/
